@@ -1,0 +1,19 @@
+Start testing: Nov 27 09:29 India Standard Time
+----------------------------------------------------------
+1/1 Testing: LibraryTest
+1/1 Test: LibraryTest
+Command: "C:/Users/Admin/Desktop/AYAN.CPP/BookLibrary_Enhanced/build/LibraryTests.exe"
+Directory: C:/Users/Admin/Desktop/AYAN.CPP/BookLibrary_Enhanced/build
+"LibraryTest" start time: Nov 27 09:29 India Standard Time
+Output:
+----------------------------------------------------------
+All library and persistence tests passed.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"LibraryTest" end time: Nov 27 09:29 India Standard Time
+"LibraryTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 27 09:29 India Standard Time
